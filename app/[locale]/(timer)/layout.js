@@ -13,7 +13,7 @@ const inter = Inter({subsets: ['latin']})
 
 async function getMessages(locale) {
 	try {
-		return (await import(`@/messages/${locale}.json`)).default;
+		return (await import(`../../../messages/${locale}.json`)).default;
 	} catch (error) {
 		notFound();
 	}
