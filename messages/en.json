@@ -1,0 +1,261 @@
+{
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "about": "About"
+    }
+  },
+  "footer": {
+    "title": "Join the\nwaiting list.",
+    "subTitle": "Our sensors are under development. If you are interested, you can register for free on the waiting list and receive information about the launch date.",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "privacy-policy": "Privacy Policy",
+      "terms-of-service": "Terms of Service"
+    },
+    "copyright": "Copyright © 2022 ATHLETID Inc. All rights reserved.",
+    "newsletter": {
+      "placeholder": "Your e-mail",
+      "button": "Send",
+      "result": "You are now following our news!"
+    }
+  },
+  "footerAbout": {
+    "title": "Do you have \na question ?",
+    "subTitle": "Our team will do its best to answer your questions and help you in the creation of a sport routine. Do not hesitate to follow us on the networks to support the project!"
+  },
+  "home": {
+    "header": {
+      "title": "A unique sport experience.",
+      "subTitle": "Create a solid training routine with our applications and tracking system.",
+      "button": "Discover our apps"
+    },
+    "gridSection1": {
+      "title": "Consistency is the key, \n let's build it together.",
+      "subTitle": "Timer by Athletid"
+    },
+    "cardImageBottomRight": {
+      "title": "Timer by Athletid",
+      "subTitle": "Train with a free mind."
+    },
+    "cardImageTopRight": {
+      "title": "Adapting.",
+      "subTitle": "The app that \nincludes all the\nsports timers."
+    },
+    "cardImageBottomFull": {
+      "title": "Simple & intuitive.",
+      "subTitle": "A pure design."
+    },
+    "gridSection2": {
+      "title": "Keeping a training log \nhas never been easier.",
+      "subTitle": "Make the difference"
+    },
+    "homeCardContent": [
+      {
+        "title": "Intelligent motion\nrecognition.",
+        "imageKeyMobile": "apcoFeaturesFullscreenMobile",
+        "imageKey": "apcoFeaturesFullscreen",
+        "tag": true,
+        "textButton": true,
+        "link": "/athletid",
+        "paragraphWidth": "w-3/4 md:w-1/3",
+        "className": "md:col-span-2",
+        "buttonClassName": "md:left-4"
+      },
+      {
+        "title": "The power of data. ",
+        "subTitle": "Mesure your progress. ",
+        "subTitleClassName": "!text-black opacity-[16%] ",
+        "imageKey": "captorWhiteBackground",
+        "textButton": true,
+        "link": "/athletid ",
+        "className": "!text-black",
+        "paragraphWidth": "w-2/3",
+        "buttonClassName": "md:left-4"
+      },
+      {
+        "title": "Motivation & inspiration.",
+        "subTitle": "An environment for your \nsuccess.",
+        "imageKey": "apcoRockBackground",
+        "buttonClassName": "hidden",
+        "link": ""
+      }
+    ],
+    "masonryGrid": {
+      "title": "Accompanying. \nInnovating. Progress",
+      "subTitle": "Let's build together the universe that will propel you towards your goals."
+    },
+    "contactSupport": {
+      "title": "Your ideas are \nour priorities!",
+      "subTitle": "Concerned about bringing you the best application, we are listening to all your suggestions to make our solution evolve."
+    },
+    "buttons": {
+      "discover": "Discover",
+      "contact": "Contact"
+    },
+    "tags": {
+      "soon-available": "Soon available",
+      "available": "Available"
+    }
+  },
+  "uiComponents": {
+    "buttons": {
+      "discover": "Discover",
+      "contact": "Contact",
+      "contact-us": "Contact us",
+      "join-the-waiting-list": "Join the waiting list",
+      "join-us": "Join us"
+    },
+    "tags": {
+      "soon-available": "Soon available",
+      "available": "Available"
+    },
+    "consent": {
+      "sentence": "This site uses cookies, please accept them if you wish.",
+      "buttons": {
+        "accept": "Accept all",
+        "decline": "Decline all"
+      }
+    }
+  },
+  "blog": {
+    "title": "Tips and\nworkouts to\nreach your goals.",
+    "subTitle": "We won't be able to help you become as strong and fast as Superman, but we have some great articles!",
+    "buttons": {
+      "load-more": "Load more",
+      "view-all": "View all",
+      "read-post": "Read post"
+    },
+    "searchForm": {
+      "placeholder": "Search..."
+    },
+    "filters": {
+      "sort": {
+        "dateAscending": "From the oldest",
+        "dateDescending": "From the latest"
+      }
+    }
+  },
+  "timer": {
+    "header": {
+      "title": "The best sport\ntimer app.",
+      "subTitle": "Your training partner, simple and elegant. Your new application is the most complete (12 different timers and stopwatches), it adapts to all types of training."
+    },
+    "keyNumbers": [
+      {
+        "text": "Beta \nUsers.",
+        "number": "2k",
+        "src": "/assets/icons/arrow-up.svg",
+        "width": 30
+      },
+      {
+        "text": "Collaborative \nProfessionals.",
+        "number": "+500",
+        "src": "/assets/icons/messages.svg",
+        "width": 20
+      },
+      {
+        "text": "New \nUsers",
+        "number": "+800",
+        "src": "/assets/icons/flash.svg",
+        "width": 30
+      }
+    ],
+    "fullHeightBgImage": {
+      "title": "Designed by athletes\nfor athletes.",
+      "subTitle": "Simplified workout follow-up.",
+      "imageTitle": "You too can reach\nyour sports goals!"
+    },
+    "carousel": {
+      "title": "Our timers adapt to\nyour objective."
+    },
+    "imageSection": {
+      "title": "Accessible to everyone",
+      "subTitle": "Designed in collaboration with athletes and experts from around the world.\nYour Timer application accompanies you whatever your level, your\ndiscipline or your goals."
+    },
+    "feature": {
+      "title": "The most powerfull\nand complet.",
+      "subTitle": "Try it for free now and discover the complete workout \nbuilder. Build and save your workout quickly and easily.",
+      "titleFeatures": "Timer By Athletid 2023",
+      "subscriptions": [
+        {
+          "subscriptionTitle": "Classic Timers",
+          "subscriptionType": "Free"
+        },
+        {
+          "subscriptionTitle": "Save Sessions",
+          "subscriptionType": "Free"
+        },
+        {
+          "subscriptionTitle": "Advanced Timers \n& Full Session",
+          "subscriptionType": "Premium"
+        }
+      ]
+    },
+    "testimonial": {
+      "title": "Many of you already \nlove the app! ",
+      "subTitle": "Together to build the best app."
+    }
+  },
+  "athletid": {
+    "header": {
+      "title": "The future of fitness \nand wellness"
+    },
+    "gridSection": {
+      "title": "The most powerful training tracking and analysis system",
+      "subTitle": "Progress every day"
+    },
+    "imageSection": {
+      "title": "Control. Manage. Share.",
+      "subTitle": "The new hassle-free sports experience\ndesigned for a new generation of athletes \nall in the Athletid App."
+    },
+    "feature": {
+      "title": "Our app and\ntracking system.",
+      "subTitle": "Currently available for bodybuilding & Fitness, we are training our algorithms to recognize Crossfit® circuits and yoga postures.",
+      "titleFeatures": "Athletid system 2023"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "Build a solid and durable sports routine.",
+      "subTitle": "Athletid is with you every step of the way to help you get the most out of regular exercise."
+    },
+    "companyDescription": {
+      "title": "Together let's create tomorrow's training.",
+      "subTitle": "We all know the benefits of sport and yet... Paradoxically, we all\nknow someone close to us or someone we know who has already given up on his or her sporting goals."
+    },
+    "coFounderCitation": {
+      "citation": "\"Athletid was created to increase the regularity and athletic commitment of fitness, yoga and related sports enthusiasts, so they can get the full benefits of the sport.\"",
+      "roles": "Co-Founders"
+    },
+    "joinTeam": {
+      "title": "Join the\n community.",
+      "subTitle": "You are passionate about training, surpassing yourself and well-being? Then Athletid is for you! Regardless of your level of experience, your goals or your discipline, you will find here what you need to fully develop in your activity."
+    }
+  },
+  "contact": {
+    "title": "Let’s talk together!",
+    "subTitle": "Here you can chat with real humans",
+    "form": {
+      "name": {
+        "label": "Your name",
+        "placeholder": "Your name..."
+      },
+      "email": {
+        "label": "Your email",
+        "placeholder": "Your email..."
+      },
+      "object": {
+        "label": "Object",
+        "placeholder": "Sports advices, customer service..."
+      },
+      "button": "Send your message",
+      "result": "Your message has been sent. Our team will contact you soon."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "subTitle": "Have questions ? We’re here to help."
+    }
+  }
+}
